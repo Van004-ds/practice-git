@@ -2,8 +2,8 @@ def additon(a ,b,c):
     
     return a +b+c
 
-def multiply (x,y):
-    return x*y
+def multiply (x,b):
+    return x*b
 
 
 def devision (q/w):
